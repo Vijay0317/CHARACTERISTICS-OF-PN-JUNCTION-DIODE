@@ -1,4 +1,6 @@
 ## CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+## NAME: VIJAY M
+## REG NO:212223080056
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
